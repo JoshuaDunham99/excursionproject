@@ -1,10 +1,14 @@
-p {
-  color: Gray;
-  font-size: 21px;
+h1 {
+  font-size: 50px;
 }
 
-h1{
-  font-size: 50px;
+p {
+  color: gray;
+}
+
+.copyright {
+  color: Gray;
+  text-align: right;
 }
 
 .phonelink {
@@ -22,14 +26,4 @@ body {
 .travelguide {
   font-weight: 300;
   font-size: 42px;
-}
-
-.pointsofinterest {
-  font-size: 21px
-  color: white;
-}
-
-.copyright {
-  text-align: right;
-  color: gray;
 }
